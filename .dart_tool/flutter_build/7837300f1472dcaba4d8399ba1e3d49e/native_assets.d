@@ -1,0 +1,1 @@
+ /home/kebe/Bureau/udemy_flutter/mi_card/.dart_tool/flutter_build/7837300f1472dcaba4d8399ba1e3d49e/native_assets.yaml: 
