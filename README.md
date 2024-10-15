@@ -1,4 +1,5 @@
 # mi_card
+<img src="images/mi_card_app.png" alt="Mon image de projet" width="300" height="500">
 
 ## Mon objectif
 Après avoir appris à créer une application Flutter entièrement depuis zéro, j'ai décidé d'aller plus loin pour approfondir mes compétences en conception d'interfaces utilisateur pour les applications Flutter.
